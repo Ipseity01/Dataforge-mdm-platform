@@ -8,19 +8,18 @@ An Enterprise Master Data Management (MDM) platform engineered with Streamlit, P
 
 <div align="center">
 
-### 1. Data Health & Analytics Overview
+### 1. Governance Quarantine & Audit Log
+![Quarantine Log](assets/03_quarantine_log.png)
+
+---
+
+### 2. Data Health & Analytics Overview
 ![Data Health Overview](assets/01_data_health.png)
 
 ---
 
-### 2. Entity Resolution & Golden Master Generation
+### 3. Entity Resolution & Golden Master Generation
 ![Entity Resolution](assets/02_entity_resolution.png)
-
----
-
-### 3. Governance Quarantine & Audit Log
-![Quarantine Log](assets/03_quarantine_log.png)
-
 </div>
 
 ---
