@@ -49,7 +49,7 @@ An Enterprise Master Data Management (MDM) platform engineered with Streamlit, P
 Run these commands in your terminal to set up and launch the platform:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/dataforge-mdm-platform.git](https://github.com/YOUR_USERNAME/dataforge-mdm-platform.git)
+git clone [https://github.com/Ipseity01/dataforge-mdm-platform.git](https://github.com/Ipseity01/dataforge-mdm-platform.git)
 cd dataforge-mdm-platform
 pip install -r requirements.txt
 python generate_data.py
